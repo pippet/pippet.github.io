@@ -244,11 +244,11 @@ body[dir="rtl"] .book-menu {
 
 .book-toc {
   flex: 0 0 $toc-width;
-  font-size: 15px;
+  font-size: 16px;
 
   .book-toc-content {
     width: $toc-width;
-    padding: 13px;
+    padding: 12px;
 
     @include fixed;
   }
