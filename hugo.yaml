@@ -30,6 +30,9 @@ menu:
     - name: "Marxists Internet Archive"
       url: "https://www.marxists.org/"
       weight: 10
+    - name: "Contact"
+      url: "https://github.com/pippet/pippet.github.io/issues/new"
+      weight: 20
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
